@@ -75,7 +75,7 @@ Youtube_clone/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/PatelKathan089/Web-Projects.git
+git clone https://github.com/shubham83/Youtube-Clone.git
 cd Web-Projects/Youtube_clone
 ```
 
@@ -104,7 +104,7 @@ MY_API_KEY = <Your Google api key>
 
 ## Github Link
 
-[Youtube Clone](https://github.com/PatelKathan089/Web-Projects/tree/master/Youtube_clone)
+[Youtube Clone](https://github.com/shubham83/Youtube-Clone.git)
 
 ## 📄 License
 
