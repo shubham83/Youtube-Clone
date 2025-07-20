@@ -76,7 +76,6 @@ Youtube_clone/
 
 ```bash
 git clone https://github.com/shubham83/Youtube-Clone.git
-cd Web-Projects/Youtube_clone
 ```
 
 2. **Frontend Setup**
